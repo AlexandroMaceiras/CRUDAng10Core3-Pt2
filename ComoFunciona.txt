@@ -1,4 +1,4 @@
-Para instalar, entre no diret[orio src e dê o comando: npm install (como o node.js e npm instalados é claro!)
+Para instalar, entre no diret[orio src do CRUDAng7Core3-Pt1 e dê o comando: npm install (como o node.js e npm instalados é claro!)
 
 CRUDAng7Core3-Pt1 é o Angular e CRUDAng7Core3-Pt2 é o C# Core
 O Solution em C# Core deve ser iniciado e depois no diretório pessoascrud vc tem o Angular que interage com ele.
