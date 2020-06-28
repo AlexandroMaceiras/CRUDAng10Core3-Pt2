@@ -1,0 +1,5 @@
+CRUDAng7Core3-Pt1 é o Angular e CRUDAng7Core3-Pt2 é o C# Core
+O Solution em C# Core deve ser iniciado e depois no diretório pessoascrud vc tem o Angular que interage com ele.
+Verifique se o número da porta do Angular contida no arquivo pessoa.service.ts em https://localhost:44349/api/Pessoas é o mesmo do C# Core que está rodando.
+No pessoascrud dê um comando "ng serve -o" em tela de command do windows.
+Vc pode dar um Ctrl+C e sair do arquivo em lote do Angular sem afetar o servidor do Angular manter ele funcionando.
